@@ -8,3 +8,5 @@
 				comparison different activation function in CNN
 4. Recognize_Sim - use CNN to recognize diff heros on pictures, also use and compare transfer learning NN
 		   (use vgg19_bn), compare score in Kaagle competition.
+5.Semantic_segmentation - segmentation of medical images (use SegNet, U-net and different loss-function (
+		    focal, bce, dice, lovasz)).
